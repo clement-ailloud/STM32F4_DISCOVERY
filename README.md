@@ -1,4 +1,5 @@
 # STM32F4_DISCOVERY
-## Code tested on STM32F411E
+## Whole codes tested on STM32F411E
 
-This repository show few basic codes using HAL driver
+Note:
+	Documentation and examples are in .ac6 of your home directory
